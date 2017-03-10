@@ -1,0 +1,2 @@
+# wp-analytics-helper
+plugin
